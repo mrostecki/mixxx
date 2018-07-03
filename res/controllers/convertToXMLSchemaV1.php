@@ -1,4 +1,4 @@
-#!/usr/bin/env php
+#!/usr/bin/php
 <?php
 /***************************************************************************
  * This small script converts Mixxx MIDI Presets from the 1.6.X XML format *

@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/usr/bin/node
 
 var prify = require('es6-promisify')
 var ejs = require('ejs')
